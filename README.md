@@ -1,1 +1,1 @@
-# [kingdomcomemap](https://kingdomcomemap.github.io) + [tauri](https://tauri.app)
+# kcdmap = [kingdomcomemap](https://kingdomcomemap.github.io) + [tauri](https://tauri.app)
